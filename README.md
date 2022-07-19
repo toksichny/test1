@@ -4,9 +4,6 @@
 
 An example of how to deploy a Flask app to Netlify.
 
-## Demo
-
-Visit [https://trusting-lewin-7ad5f5.netlify.com/](https://trusting-lewin-7ad5f5.netlify.com/) to see the website in action.
 
 ## Get started with Flask Web App locally
 
